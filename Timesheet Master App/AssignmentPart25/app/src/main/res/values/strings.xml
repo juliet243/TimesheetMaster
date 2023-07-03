@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Timesheet Master</string>
+    <string name="todo">TODO</string>
+    <string name="email_address">Email Address</string>
+    <string name="heading">Timesheet Entries</string>
+    <string name="appHeading">Timesheet Master</string>
+    <string name="heading2">Reports</string>
+    <string name="column1">Entries</string>
+    <string name="column2">Mon</string>
+    <string name="column3">Tue</string>
+    <string name="column4">Wed</string>
+    <string name="column5">Thur</string>
+    <string name="column6">Fri</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
